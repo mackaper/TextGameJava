@@ -1,0 +1,6 @@
+Alice,Sweden,10
+Marcus,Australia,8
+Olle,Swiss,7
+Rickard,Norway,9
+Pelle,Denmark,3
+Petter,Iceland,2

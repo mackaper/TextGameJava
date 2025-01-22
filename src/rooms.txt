@@ -1,0 +1,19 @@
+Room,leftArm,in the left arm,Healthy
+Room,upperTorso,in the upper torso,Healthy
+Room,head,in the head,Healthy
+Room,rightArm,in the right arm,Healthy
+Room,lowerTorso,in the lower torso,Healthy
+Room,leftLeg,in the left leg,Healthy
+Room,rightLeg,in the right leg,Poisoned
+Exit,leftArm,upper-torso,upperTorso
+Exit,rightArm,upper-torso,upperTorso
+Exit,head,upper-torso,upperTorso
+Exit,upperTorso,left-arm,leftArm
+Exit,upperTorso,right-arm,rightArm
+Exit,upperTorso,head,head
+Exit,upperTorso,lower-torso,lowerTorso
+Exit,lowerTorso,upper-torso,upperTorso
+Exit,lowerTorso,left-leg,leftLeg
+Exit,lowerTorso,right-leg,rightLeg
+Exit,leftLeg,lower-torso,lowerTorso
+Exit,rightLeg,lower-torso,lowerTorso
